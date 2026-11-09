@@ -1,8 +1,5 @@
-# Libraries/Modules required:
-1. fastapi
-2. uvicorn
-3. sqlalchemy
-4. python-dotenv
-5. psycopg2-binary
-
-#You also need a Database like postgres, mySQL or oracle on your system.
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+psycopg2-binary
