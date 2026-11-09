@@ -7,3 +7,4 @@ class TodoCreate(BaseModel):
 class TodoOut(TodoCreate):
     id: int
     model_config = ConfigDict(from_attributes=True)
+    
